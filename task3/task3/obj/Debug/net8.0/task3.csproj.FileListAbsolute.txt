@@ -1,0 +1,14 @@
+E:\iti\c#\Day5\tasks\task3\task3\bin\Debug\net8.0\task3.exe
+E:\iti\c#\Day5\tasks\task3\task3\bin\Debug\net8.0\task3.deps.json
+E:\iti\c#\Day5\tasks\task3\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+E:\iti\c#\Day5\tasks\task3\task3\bin\Debug\net8.0\task3.dll
+E:\iti\c#\Day5\tasks\task3\task3\bin\Debug\net8.0\task3.pdb
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.dll
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\refint\task3.dll
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.pdb
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+E:\iti\c#\Day5\tasks\task3\task3\obj\Debug\net8.0\ref\task3.dll

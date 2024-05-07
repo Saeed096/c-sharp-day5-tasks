@@ -1,0 +1,14 @@
+E:\iti\c#\Day5\tasks\task2\Task2\bin\Debug\net8.0\Task2.exe
+E:\iti\c#\Day5\tasks\task2\Task2\bin\Debug\net8.0\Task2.deps.json
+E:\iti\c#\Day5\tasks\task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+E:\iti\c#\Day5\tasks\task2\Task2\bin\Debug\net8.0\Task2.dll
+E:\iti\c#\Day5\tasks\task2\Task2\bin\Debug\net8.0\Task2.pdb
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.dll
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.pdb
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+E:\iti\c#\Day5\tasks\task2\Task2\obj\Debug\net8.0\ref\Task2.dll
